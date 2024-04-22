@@ -8,4 +8,4 @@ Make sure to install the latest versions of OpenCV, Pupil-Apriltags, Matplotlib,
 
 ## TO DO
 
-The computations are very slow and the position updates slowly on the game field. Need to do performance optimization later. 
+The current computations are very slow and the position updates slowly on the game field. Need to do performance optimization later. 
